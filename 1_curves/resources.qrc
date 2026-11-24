@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/flat.frag</file>
+        <file>shaders/flat.vert</file>
+        <file>shaders/curvature.geom</file>
+    </qresource>
+</RCC>
